@@ -12,6 +12,6 @@ A full stack web application for reviewing campgrounds over the world. Built usi
 
 _Figure 1: LoLo-Camp! Opening Page_
 
-![image](https://user-images.githubusercontent.com/35508198/152449800-41915cf3-a1a7-4437-96ed-5bab7590d39f.png)
+![image](https://user-images.githubusercontent.com/35508198/152450296-c908a33c-64f1-459b-aa56-b7c7c326e52e.png)
 
-_Figure 1: LoLo-Camp! Campground Page_
+_Figure 2: LoLo-Camp! Campground Page_
