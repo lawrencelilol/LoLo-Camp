@@ -2,7 +2,7 @@
 
 A full stack web application for reviewing campgrounds over the world. Built using HTML, CSS, JavaScript, Bootstrap, NodeJS, Express and MongoDB.
 
-https://shrouded-woodland-22935.herokuapp.com/
+[Go To the Website] (https://shrouded-woodland-22935.herokuapp.com/)
 
 - Users can sign up and log in to make new campgrounds and leave a review on existing ones.
 - New campgrounds can be added, deleted, or edited by user who creates the campground.
